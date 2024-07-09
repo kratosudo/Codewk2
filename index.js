@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function()
+document.addEventListener("DOMContentLoaded", function(){
     const itemInput = document.getElementById("itemInput");
     const additemBtn = document.getElementById("additemButton");
     const clearlistBtn = document.getElementById("clearlistBtn");
